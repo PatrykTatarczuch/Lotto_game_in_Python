@@ -20,21 +20,22 @@
 - How to play?
     1. Run the code with the green "run" button (make sure you run the right file)
     2. Write the 6 numbers you want in the console
+  
     - Exaple:
-    1. Write a number between 1 and 49
-    2. 10
-    3. The entered number: 10
-    4. Write a number between 1 and 49
-    5. 25
-    6. The entered number: 25
-    7. ...
-    8. Your numbers [10, 25, ...]
-    9. Numbers in the pool: [5, 12, 19, 25, 30, 44]
-    10. You spent PLN 3 on a coupon
-    11. You guessed 2 numbers
-    12. Next time you will succeed
+    1.  Write a number between 1 and 49
+    2.  10
+    3.  The entered number: 10
+    4.  Write a number between 1 and 49
+    5.  25
+    6.  The entered number: 25
+    7.  ...
+    8.  Your numbers [10, 25, ...]
+    9.  Numbers in the pool: [5, 12, 19, 25, 30, 44]
+    10.  You spent PLN 3 on a coupon
+    11.  You guessed 2 numbers
+    12.  Next time you will succeed
 
-  - Requirements:
-     1. Python 3.x
-  - Author:
-     1. Patryk Tatarczuch
+- Requirements:
+    1. Python 3.x
+- Author:
+    1. Patryk Tatarczuch
