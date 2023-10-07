@@ -4,18 +4,37 @@
     2. You can only write 6 numbers
        
 - What if you make mistake?
-    1. It is no problem, I created the application to rejects all incorrect values such as:
-      - a number less than one
-      - a number greater than 49
-      - a number that is not an integer
-      - repeated numbers
+    I created the application to rejects all incorrect values such as:
+      1. a number less than one
+      2. a number greater than 49
+      3. a number that is not an integer
+      4. repeated numbers
     After each incorrect entry, you get another chance to enter the correct number
     
-- Steps to use the code:
-    1. Copy my code to the Pycharm environment
-    2. Install the "random" package by right-clicking on the word "random", then left-clicking on the "Show Context Actions" sentence, then left-clicking on the           "Install package random" sentence1
-    3. You are ready to play
-       
-- How does the app works?:
+- To run the application, follow these steps:
+    1.  Make sure you have Python installed on your computer.
+    2.  Download the lotto.py file from this repository.
+    3. Open a terminal and navigate to the directory where the lotto.py file is located.
+    4. Run the program by typing python lotto.py in the terminal.
+
+  - How to play?
     1. Run the code with the green "run" button (make sure you run the right file)
-    2. 
+    2. Write the 6 numbers you want in the console
+       Exaple:
+       Write a number between 1 and 49
+       10
+       The entered number: 10
+       Write a number between 1 and 49
+       25
+       The entered number: 25
+       ...
+       Your numbers [10, 25, ...]
+       Numbers in the pool: [5, 12, 19, 25, 30, 44]
+       You spent PLN 3 on a coupon
+       You guessed 2 numbers
+       Next time you will succeed
+
+  - Requirements:
+     1. Python 3.x
+  - Author:
+     1. Patryk Tatarczuch
